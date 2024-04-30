@@ -47,7 +47,7 @@ button:hover {
 }
 
 #employeeTable {
-    margin-top: 20px;
+    margin-top: 400px;
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
